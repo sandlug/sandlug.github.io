@@ -3,29 +3,29 @@
 
   
   <url>
-    <loc>http://example.org/#about</loc>
+    <loc>https://www.sandlug.org/#about</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#gallery</loc>
+    <loc>https://www.sandlug.org/#gallery</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#joinus</loc>
+    <loc>https://www.sandlug.org/#joinus</loc>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://www.sandlug.org/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://www.sandlug.org/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://www.sandlug.org/#</loc>
     <priority>0</priority>
   </url>
   
